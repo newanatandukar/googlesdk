@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "991981838771",
+    "firebase_url": "https://sign-app-958a5.firebaseio.com",
+    "project_id": "sign-app-958a5",
+    "storage_bucket": "sign-app-958a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991981838771:android:10393bda0abe0bd2872bc6",
+        "android_client_info": {
+          "package_name": "com.newana.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991981838771-15koth0s1s5k9o8rp52sqs1d57q1jj0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKt0h1V7288hSUrTvRuoqL8_685ip-R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991981838771-15koth0s1s5k9o8rp52sqs1d57q1jj0n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991981838771-n8693cm72hk61f0dg9rutu1olln16ill.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newana.googlesignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991981838771:android:62429b3a90dcce96872bc6",
+        "android_client_info": {
+          "package_name": "host.exp.Exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991981838771-dvoh6rso80qum5taeue4csgalb57jph2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.Exponent",
+            "certificate_hash": "90620b2c7d2192c61f8bd60c8e582dbe95776747"
+          }
+        },
+        {
+          "client_id": "991981838771-15koth0s1s5k9o8rp52sqs1d57q1jj0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKt0h1V7288hSUrTvRuoqL8_685ip-R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991981838771-15koth0s1s5k9o8rp52sqs1d57q1jj0n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991981838771-n8693cm72hk61f0dg9rutu1olln16ill.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newana.googlesignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
